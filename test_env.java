@@ -1,4 +1,4 @@
-/* Authors: Cedric Murairi | Wanjiru Wan'gondu
+/* Authors: Cedric Murairi | Mthabisi Ndlovu
    this program plays as test to the environment setup, we are getting
    some input from the user and calculate their BMI and also compute the perimeter
    and surface of a rectangle given the lenght and the width.
